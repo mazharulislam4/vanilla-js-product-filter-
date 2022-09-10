@@ -3,6 +3,10 @@ img{
   width: 100% !important;
 }
 
+button:focus{
+  box-shadow: none !important;
+}
+
 .search-form [ name="search"]{
   padding:5px 10px;
   outline: 1px solid black;
